@@ -1,0 +1,1 @@
+[CP1404 - Programming Patterns](https://github.com/CP1404/Starter/wiki/Programming-Patterns)
